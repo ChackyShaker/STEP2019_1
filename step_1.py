@@ -39,8 +39,7 @@ for word in result:
 
 #print(type(words_list))
 
-#for word in words:
-#    print(word)
+
 
 
 
